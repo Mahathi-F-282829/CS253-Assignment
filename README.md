@@ -31,6 +31,7 @@ This Car Rental Management System is a comprehensive solution designed to facili
 Compile the project using your C++ compiler. For example, if you are using `g++`, you can compile the project as follows:
 ```bash
 g++ -o carRentalSystem main.cpp -std=c++17 -lmongocxx -lbsoncxx
+
 ## Key Features
 
 - **User Authentication**: The system includes a verification mechanism for customers, employees, and managers to log in using their IDs and passwords.
